@@ -1,0 +1,15 @@
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\bin\Debug\net6.0\ConsoleApp49.exe
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\bin\Debug\net6.0\ConsoleApp49.deps.json
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\bin\Debug\net6.0\ConsoleApp49.runtimeconfig.json
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\bin\Debug\net6.0\ConsoleApp49.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\bin\Debug\net6.0\ConsoleApp49.pdb
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\refint\ConsoleApp49.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.pdb
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ConsoleApp49.genruntimeconfig.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp49\ConsoleApp49\obj\Debug\net6.0\ref\ConsoleApp49.dll
